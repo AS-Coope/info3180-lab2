@@ -1,1 +1,29 @@
 {% extends "base.html" %}
+
+{% block main %}
+<div class="profile-info">
+    <img src="" alt="" class="profile-pic">
+    <p class="fullname"></p>
+    <p class="username"></p>
+    <p class="location"></p>
+    <p class="join-date"></p>
+</div>
+<div class="profile-desc">
+    <p class="bio"></p>
+    <div class="metrics">
+        <div class="posts-container">
+            <p class="posts-val"></p>
+            <p class="posts-title"></p>
+        </div>
+        <div class="following-container">
+            <p class="following-val"></p>
+            <p class="following-title"></p>
+        </div>
+        <div class="followers-container">
+            <p class="followers-val"></p>
+            <p class="following-title"></p>
+        </div>
+    </div>
+    <button class="follow-btn">Follow</button>
+</div>
+{% endblock %}
