@@ -19,7 +19,7 @@ def about():
 
 @app.route('/profile')
 def profile():
-    return "profile-template"
+    return render_template("profile.html")
 
 ###
 # The functions below should be applicable to all Flask apps.
