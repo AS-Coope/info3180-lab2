@@ -1,3 +1,9 @@
 body {
     padding-top: 5rem;
 }
+
+.profile-pic {
+    width: 10rem;
+    height: auto;
+    border-radius: 50%;
+}
