@@ -3,25 +3,25 @@
 {% block main %}
 <div class="profile-info">
     <img src="{{ url_for('static', filename='ZrC Glitch.png')}} " alt="Profile Image of User" class="profile-pic">
-    <p class="fullname"></p>
-    <p class="username"></p>
-    <p class="location"></p>
-    <p class="join-date"></p>
+    <p class="fullname">Ryan Cooper</p>
+    <p class="username">@ZrC</p>
+    <p class="location">Clarendon, Jamaica</p>
+    <p class="join-date">{{ date_joined }}</p>
 </div>
 <div class="profile-desc">
-    <p class="bio"></p>
+    <p class="bio">Make Websites, bling!</p>
     <div class="metrics">
         <div class="posts-container">
-            <p class="posts-val"></p>
-            <p class="posts-title"></p>
+            <p class="posts-val">7</p>
+            <p class="posts-title">Posts</p>
         </div>
         <div class="following-container">
-            <p class="following-val"></p>
-            <p class="following-title"></p>
+            <p class="following-val">100</p>
+            <p class="following-title">Following</p>
         </div>
         <div class="followers-container">
-            <p class="followers-val"></p>
-            <p class="following-title"></p>
+            <p class="followers-val">250</p>
+            <p class="following-title">Followers</p>
         </div>
     </div>
     <button class="follow-btn">Follow</button>
