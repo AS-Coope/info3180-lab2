@@ -11,6 +11,6 @@ main .container {
 
 .profile-pic {
     width: 10rem;
-    height: auto;
+    height: 10rem;
     border-radius: 50%;
 }
