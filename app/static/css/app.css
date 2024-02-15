@@ -41,3 +41,13 @@ main .container {
     display: flex;
     flex-direction: row;
 }
+
+.posts-container,
+.following-container,
+.followers-container {
+    padding: 1rem;
+}
+
+.following-contianer {}
+
+.followers-contianer {}
