@@ -48,6 +48,6 @@ main .container {
     padding: 1rem;
 }
 
-.following-contianer {}
-
-.followers-contianer {}
+.bio {
+    text-align: center;
+}
