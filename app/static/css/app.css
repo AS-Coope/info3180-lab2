@@ -30,6 +30,7 @@ main .container {
     border-top: 2px solid var(--border-color);
     border-left: 2px solid var(--border-color);
     border-right: 2px solid var(--border-color);
+    color: white;
 }
 
 .profile-desc {
