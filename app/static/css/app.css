@@ -49,9 +49,18 @@ main .container {
 .posts-container,
 .following-container,
 .followers-container {
-    padding: 1rem;
+    padding: 0 1rem;
 }
 
 .bio {
+    padding-top: 1rem;
     text-align: center;
+}
+
+.posts-val,
+.following-val,
+.followers-val {
+    text-align: center;
+    margin: 0;
+    font-weight: 750;
 }
