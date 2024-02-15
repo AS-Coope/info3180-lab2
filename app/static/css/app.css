@@ -16,6 +16,10 @@ main .container {
 }
 
 .profile-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-color: hsl(96, 93%, 43%);
     padding: 5rem 10rem;
     border-radius: 2rem 2rem 0 0;
