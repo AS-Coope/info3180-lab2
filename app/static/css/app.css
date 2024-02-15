@@ -31,3 +31,13 @@ main .container {
     border-left: 2px solid var(--border-color);
     border-right: 2px solid var(--border-color);
 }
+
+.profile-desc {
+    display: flex;
+    flex-direction: column;
+}
+
+.metrics {
+    display: flex;
+    flex-direction: row;
+}
