@@ -50,6 +50,7 @@ main .container {
 .metrics {
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 
 .posts-container,
