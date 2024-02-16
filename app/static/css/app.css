@@ -22,6 +22,7 @@ main .container {
 }
 
 .profile-info {
+    width: 30rem;
     text-shadow: 1px 1px 4px black;
     display: flex;
     flex-direction: column;
@@ -38,6 +39,7 @@ main .container {
 
 .profile-desc {
     display: flex;
+    width: 30rem;
     flex-direction: column;
     border-radius: 0 0 2rem 2rem;
     border-bottom: 2px solid var(--border-color);
