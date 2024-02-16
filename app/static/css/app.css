@@ -41,6 +41,7 @@ main .container {
     display: flex;
     width: 30rem;
     flex-direction: column;
+    align-items: center;
     border-radius: 0 0 2rem 2rem;
     border-bottom: 2px solid var(--border-color);
     border-left: 2px solid var(--border-color);
@@ -70,4 +71,11 @@ main .container {
     text-align: center;
     margin: 0;
     font-weight: 750;
+}
+
+.follow-btn {
+    text-align: center;
+    width: 10rem;
+    padding: 0 3rem;
+    font-weight: 800;
 }
