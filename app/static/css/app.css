@@ -20,6 +20,7 @@ main .container {
     width: 10rem;
     height: 10rem;
     border-radius: 50%;
+    margin: 0 0 1.5rem;
 }
 
 .profile-info {
