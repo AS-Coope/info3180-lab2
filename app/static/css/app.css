@@ -80,7 +80,7 @@ main .container {
     padding: 0.3rem 3rem;
     font-weight: 700;
 
-    border: 1px solid grey;
+    border: none;
     border-radius: 0.7rem;
     background-color: hsl(300, 71%, 45%);
     color: white;
