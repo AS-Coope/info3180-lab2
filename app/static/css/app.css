@@ -38,6 +38,10 @@ main .container {
     color: white;
 }
 
+.profile-info p {
+    line-height: 0.8rem;
+}
+
 .profile-desc {
     display: flex;
     width: 30rem;
