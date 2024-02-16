@@ -86,7 +86,7 @@ main .container {
     font-weight: 700;
 
     border: none;
-    border-radius: 0.7rem;
+    border-radius: 0.5rem;
     background-color: hsl(300, 71%, 45%);
     color: white;
 }
