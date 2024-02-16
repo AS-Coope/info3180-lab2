@@ -70,6 +70,8 @@ main .container {
     padding-top: 1rem;
     text-align: left;
     width: 25rem;
+
+    color: hsl(0, 0%, 39%);
 }
 
 .posts-val,
