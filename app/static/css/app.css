@@ -80,6 +80,12 @@ main .container {
     font-weight: 750;
 }
 
+.posts-title,
+.following-title,
+.followers-title {
+    color: hsl(0, 0%, 39%);
+}
+
 .follow-btn {
     text-align: center;
     width: 10rem;
