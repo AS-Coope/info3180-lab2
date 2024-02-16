@@ -63,8 +63,10 @@ main .container {
 }
 
 .bio {
+    align-self: center;
     padding-top: 1rem;
-    text-align: center;
+    text-align: left;
+    width: 25rem;
 }
 
 .posts-val,
