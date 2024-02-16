@@ -39,9 +39,15 @@ main .container {
     color: white;
 }
 
+.fullname {
+    font-weight: 600;
+    font-size: 2rem;
+}
+
 .profile-info p {
     line-height: 0.8rem;
 }
+
 
 .profile-desc {
     display: flex;
