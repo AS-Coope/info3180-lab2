@@ -66,6 +66,7 @@ main .container {
 
 .bio {
     align-self: center;
+    padding: 0 1rem;
     padding-top: 1rem;
     text-align: left;
     width: 25rem;
